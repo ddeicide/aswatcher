@@ -4,7 +4,7 @@ App Service watcher.
 
 ## Description
 
-Watcher with email notification for service or app.
+Watcher with email notification for service or app. Written in powershell.
 
 ## License
 
